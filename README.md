@@ -14,9 +14,7 @@ Vulnerabilities include
 
 ## Notes 
 
-
 These programs have been tested 
-
 ```
 clang \
 -fsyntax-only \
